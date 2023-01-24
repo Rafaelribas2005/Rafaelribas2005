@@ -10,5 +10,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div> <br>
 
-Apaixonado por tecnologia, atualmente estou em um curso profissionalizante de TI, porém pretendo trabalhar com programação, ainda aprenderei PHP e JAVA e a
-minha linguagem favorita é JavaScript 💛
+## Técnologias a serem estudadas
+
+<div style="display: inline_block;"></br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div> 
